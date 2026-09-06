@@ -42,7 +42,7 @@
     "@expo/env": "~2.1.1",
     "@expo/json-file": "~10.0.12",
     "@expo/spawn-async": "^1.7.2",
-    "browserslist": "^4.25.0",
+    "browserslist": "^4.28.7",
     "chalk": "^4.1.0",
     "debug": "^4.3.2",
     "getenv": "^2.0.0",
