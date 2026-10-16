@@ -4159,7 +4159,7 @@
     lodash "^4.17.21"
     redent "^3.0.0"
 
-"@testing-library/react-native@^13.2.0", "@testing-library/react-native@^13.3.0":
+"@testing-library/react-native@^13.3.0":
   version "13.3.3"
   resolved "https://registry.yarnpkg.com/@testing-library/react-native/-/react-native-13.3.3.tgz#4bf02911c4e18075df40b5de0e029c209fb45bda"
   integrity sha512-k6Mjsd9dbZgvY4Bl7P1NIpePQNi+dfYtlJ5voi9KQlynxSyQkfOgJmYGCYmw/aSgH/rUcFvG8u5gd4npzgRDyg==
@@ -13066,9 +13066,9 @@ protobufjs@^6.10.0:
     long "^4.0.0"
 
 proxy-addr@^2.0.7, proxy-addr@~2.0.7:
-  version "2.0.7"
-  resolved "https://registry.yarnpkg.com/proxy-addr/-/proxy-addr-2.0.7.tgz#f19fe69ceab311eeb94b42e70e8c2070f9ba1025"
-  integrity sha512-llQsMLSUDUPT44jdrU/O37qlnifitDP+ZwrmmZcoSKyLKvtZxpyV0n2/bD/N4tBAAZ/gJEdZU7KMraoK1+XYAg==
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/proxy-addr/-/proxy-addr-2.0.8.tgz#624e760fd8ab06b1b8320c2f8506d4422cf8e932"
+  integrity sha512-5nnx0yGyVUcY6t9RnWcARWtwT9F1D8O9rt08htPvnd49W1IgZtmLkhu9WfMzQj1cFxjHIO6connUNVW5k7AVyQ==
   dependencies:
     forwarded "0.2.0"
     ipaddr.js "1.9.1"
